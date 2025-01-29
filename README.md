@@ -26,4 +26,4 @@ You play as a robot in a post apocalyptic world. Your goal is to explore the wor
 ![Woodsmen](https://github.com/user-attachments/assets/84aa4098-6375-4961-9ee4-35ad6156ff00)
 
 ## Basic Character Concept
-![Robot](https://github.com/rabiescats/Production-Team-1/blob/main/images/robot.png)
+![Robot](https://github.com/rabiescats/Production-Team-1/blob/main/images/robotET.png)

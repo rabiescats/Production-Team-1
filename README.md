@@ -9,7 +9,7 @@
 * Edgar - Animation
 
 ## Game Concept
-You play as a robot in a post apocalyptic world. Your goal is to explore the world and find out what happened, and along the way, who created you.
+You play as a robot in a post-apocalyptic world. Your life until now has been simple, punching and cutting down trees, but seeing an intriguing sign sends you down a trail to find out who you are, why you're here, and who created you. You weren't built for battle, but you'll find a way to use your tools to punch and slash until you reach the end.
 
 ## Important Docs
 

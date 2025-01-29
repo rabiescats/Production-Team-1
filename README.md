@@ -20,3 +20,8 @@ You play as a robot in a post apocalyptic world. Your goal is to explore the wor
 [Pitch Presentation](https://github.com/rabiescats/Production-Team-1/blob/main/docs/Pitch%20Presentation.pdf)
 
 [Pre-Production Doc](https://github.com/rabiescats/Production-Team-1/blob/main/docs/Pre-Production%20Doc.pdf)
+
+## Storyboard
+
+![Woodsmen](https://github.com/user-attachments/assets/84aa4098-6375-4961-9ee4-35ad6156ff00)
+

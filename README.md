@@ -1,5 +1,13 @@
 # Production-Team-1
 
+## Team Members
+* Elliot - 3d Modeling
+* Emil - Coding
+* Colter - Scripting
+* Finn - Graphics
+* Roan - Sound
+* Edgar - Animation
+
 ## Game Concept
 You play as a robot in a post apocalyptic world. Your goal is to explore the world and find out what happened, and along the way, who created you.
 

@@ -32,3 +32,6 @@ You play as a robot in a post-apocalyptic world. Your life until now has been si
 ## Base For Enemy Model
 
 ![Enemy](https://github.com/rabiescats/Production-Team-1/blob/main/images/humanBase.png)
+
+## Map
+![Screenshot 2025-03-26 at 7 53 18 AM](https://github.com/user-attachments/assets/d56153f2-b395-49e7-88a5-878c3ac302b6)

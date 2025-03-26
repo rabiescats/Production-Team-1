@@ -27,3 +27,8 @@ You play as a robot in a post-apocalyptic world. Your life until now has been si
 
 ## Basic Character Concept
 ![Robot](https://github.com/rabiescats/Production-Team-1/blob/main/images/robotFull.png)
+
+
+## Base For Enemy Model
+
+![Enemy](https://github.com/rabiescats/Production-Team-1/blob/main/images/humanBase.png)
